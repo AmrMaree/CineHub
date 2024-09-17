@@ -3,7 +3,7 @@ import { MovieDetail, MovieList, PageNotFound, Search } from "../pages";
 
 export const AllRoutes = () => {
     return (
-        <>
+        <div className="dark:bg-slate-800">
             <Routes>
                 <Route path="/" element={<MovieList />}></Route>
                 <Route path="movie/:id" element={<MovieDetail />}></Route>
@@ -13,6 +13,6 @@ export const AllRoutes = () => {
                 <Route path="search" element={<Search />}></Route>
                 <Route path="*" element={<PageNotFound />}></Route>
             </Routes>
-        </>
+        </div>
     )
 }
