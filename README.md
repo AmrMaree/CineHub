@@ -1,6 +1,6 @@
 ## CineHub
 
-**CineHub** is a comprehensive movie information application built with React, inspired by IMDb. It provides detailed information about movies, helping users discover and explore their favorite films.
+**CineHub** is a comprehensive movie information application built with React. It provides detailed information about movies, helping users discover and explore their favorite films.
 
 ### Features
 - **Movie Search**: Find movies by title, genre, or release year.
