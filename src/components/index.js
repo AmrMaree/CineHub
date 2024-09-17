@@ -1,4 +1,5 @@
 export { Header } from "./Header";
-export { Footer } from "./Footer"
+export { Footer } from "./Footer";
 
-export { Card } from "./Card"
+export { Card } from "./Card";
+export { ScrollToTop } from "./ScrollToTop";
