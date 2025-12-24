@@ -11,3 +11,5 @@
 - **API Integration**: Fetches movie data using a reliable API.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 - **User-Friendly Interface**: Navigate through the app with ease thanks to its intuitive design.
+
+### Link: https://cinehub-ui.netlify.app/
